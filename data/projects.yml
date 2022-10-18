@@ -1,19 +1,23 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: My Game Shelf
+  description2: Full-stack
+  description: Group final project with Rails to manage game collection in one place
+  image: images/MGS.png
+  url: http://mygameshelf.herokuapp.com/
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Abandonya
+  description2: Project manager & front-end
+  description: Airbnb in Japan for abandoned houses
+  image: images/abandonya.png
+  url: https://abandonya.herokuapp.com/
 
-- name: Airbnb
-  description: Decent description of the app
+- name: React App
+  description2: Personal project
+  description: Project coming soon
   image: projects/placeholder.png
-  url: https://www.google.com
+  url:
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+# - name: Line Chatbot
+#   description2: Personal project
+#   description: Project coming soon
+#   image: projects/placeholder.png
+#   url:
