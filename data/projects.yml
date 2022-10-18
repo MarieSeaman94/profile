@@ -1,14 +1,14 @@
-- name: My Game Shelf
-  description2: Full-stack
-  description: Group final project with Rails to manage game collection in one place
-  image: images/MGS.png
-  url: http://mygameshelf.herokuapp.com/
-
 - name: Abandonya
   description2: Project manager & front-end
   description: Airbnb in Japan for abandoned houses
   image: images/abandonya.png
   url: https://abandonya.herokuapp.com/
+
+- name: My Game Shelf
+  description2: Full-stack
+  description: Group final project with Rails to manage game collection in one place
+  image: images/MGS.png
+  url: http://mygameshelf.herokuapp.com/
 
 - name: React App
   description2: Personal project
