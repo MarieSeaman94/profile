@@ -2,9 +2,11 @@
   padding: 0 16px;
   position: relative;
   font-size: 20px;
+  color: $warm-light;
 
   &:hover {
     opacity: 0.7;
+    color: $gray-green;
   }
 }
 

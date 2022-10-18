@@ -1,0 +1,29 @@
+#skills{
+  background-color: $gray-green;
+  padding: 20px;
+  margin-top: 40px;
+  color: $egg-shell;
+  border-radius: 3px;
+  box-shadow: 0 0 15px $gray-green;
+}
+
+.container .all {
+  padding: 10px 20px 10px;
+}
+
+.row {
+  display: flex;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 12px;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+ul img {
+  height: 50px;
+  width: 50px;
+}
