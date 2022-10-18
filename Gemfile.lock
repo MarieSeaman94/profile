@@ -105,6 +105,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   middleman (~> 4.2)
@@ -113,4 +114,4 @@ DEPENDENCIES
   wdm (~> 0.1)
 
 BUNDLED WITH
-   2.3.19
+   2.3.10
