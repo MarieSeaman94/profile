@@ -122,4 +122,10 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
+  .card-product {
+    justify-content: space-around;
+  }   
+  .card-product img {
+    width: 45%;
+  }
 }
