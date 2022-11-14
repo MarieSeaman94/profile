@@ -10,11 +10,11 @@
   image: images/MGS.png
   url: http://mygameshelf.herokuapp.com/
 
- #- name: Ruby Chatbot
-   #description2: Developer
-   #description: A simple chatbot that can be used on Line to answer simple questions
-   #image: ruby-screenshot.jpg
-   #url: https://github.com/MarieSeaman94/ruby-chat-bot
+- name: Ruby Chatbot
+  description2: Developer
+  description: A simple chatbot that can be used on Line to answer simple questions
+  image: images/ruby-screenshot.jpg
+  url: https://github.com/MarieSeaman94/ruby-chat-bot
 
 # - name: Line Chatbot
 #   description2: Personal project
