@@ -115,11 +115,9 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
-  .card-product {
-    justify-content: space-around;
-  }
+
   .card-product img {
-    width: 45%;
+    width: 55%;
   }
 }
 
@@ -128,10 +126,10 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
-  .card-product {
-    justify-content: space-around;
-  }   
+  .card-product-infos {
+    margin-left: 1rem;
+  }
   .card-product img {
-    width: 45%;
+    width: 55%;
   }
 }
