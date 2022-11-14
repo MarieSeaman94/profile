@@ -115,6 +115,12 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
+  .card-product {
+    justify-content: space-around;
+  }
+  .card-product img {
+    width: 45%;
+  }
 }
 
 // Extra large devices (large desktops, 1200px and up)
