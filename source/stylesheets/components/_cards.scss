@@ -81,7 +81,8 @@
   }
   .card-product img {
     width: 100%;
-    height: 70%;
+    height: 55%;
+    object-fit: fill;
   }
   .external-link {
     position: absolute;
@@ -117,7 +118,7 @@
   }
 
   .card-product img {
-    width: 55%;
+    width: 65%;
   }
 }
 
