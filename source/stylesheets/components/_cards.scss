@@ -2,6 +2,13 @@
   display: inline;
 }
 
+.card-product-infos {
+  border-block-start: 1px solid;
+  border-block-end: 1px solid;
+  padding-block-start: 1rem;
+  padding-block-end: 1rem;
+
+}
 
 .card-product {
   overflow: hidden;
@@ -32,10 +39,11 @@
   font-size: 14px;
   line-height: 1.4;
   opacity: .8;
-  margin-bottom: 0;
   margin-top: 8px;
+  margin-bottom: 8px;
   color: $gray-green;
   text-align: center;
+
 }
 
 .card-product .card-product-infos {
@@ -81,6 +89,7 @@
     width: 100%;
     height: 55%;
     object-fit: fill;
+    
   }
   .external-link {
     position: absolute;
