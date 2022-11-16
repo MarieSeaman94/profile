@@ -1,14 +1,12 @@
 #skills{
   background-color: $egg-shell;
   padding: 20px;
-  margin-top: 40px;
+  margin-top: 2rem;
   color: $gray-green;
-  border-radius: 3px;
 }
 
-.container .all {
+.all {
   padding: 10px 20px 10px;
-  margin-top: 3rem;
 }
 
 
@@ -21,6 +19,9 @@ ul {
   align-items: baseline;
   align-content: space-evenly;
   list-style: none;
+
+  border-block-end: 1px solid;
+  padding-block-end: 1rem;
 }
 
 ul img {
