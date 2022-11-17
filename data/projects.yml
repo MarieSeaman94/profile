@@ -1,18 +1,18 @@
 - name: Abandonya
   description2: Project manager & front-end developer
-  description: Airbnb in Japan for abandoned houses
+  description: Airbnb in Japan for abandoned houses |Rails
   image: images/abandonya.png
   url: https://abandonya.herokuapp.com/
 
 - name: My Game Shelf
   description2: Full-stack developer
-  description: Group final project with Rails to manage game collection in one place
+  description: Manage your game collection in one place | Rails
   image: images/MGS.png
   url: http://mygameshelf.herokuapp.com/
 
 - name: Ruby Chatbot
   description2: Developer
-  description: A simple chatbot that can be used on Line to answer simple questions
+  description: Line chatbot to answer your simple questions | Ruby
   image: images/ruby-screenshot.jpg
   url: https://github.com/MarieSeaman94/ruby-chat-bot
 
