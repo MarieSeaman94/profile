@@ -18,6 +18,6 @@
 
 - name: Weather App
   description2: Personal project
-  description: Background display changes on location's temp | Vue
-  image: images/taipei.png
+  description: Background changes depending on location's temp | Vue
+  image: images/Cebu-ph.png
   url: https://github.com/MarieSeaman94/vue-weather-app
