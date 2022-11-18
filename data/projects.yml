@@ -1,6 +1,6 @@
 - name: Abandonya
   description2: Project manager & front-end developer
-  description: Airbnb in Japan for abandoned houses |Rails
+  description: Airbnb in Japan for abandoned houses | Rails
   image: images/abandonya.png
   url: https://abandonya.herokuapp.com/
 
