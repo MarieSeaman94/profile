@@ -1,23 +1,29 @@
-- name: Abandonya
-  description2: Project manager & front-end developer
-  description: Airbnb in Japan for abandoned houses | Rails
-  image: images/abandonya.png
-  url: https://abandonya.herokuapp.com/
-
 - name: My Game Shelf
-  description2: Full-stack developer
-  description: Manage your game collection in one place | Rails
+  description2: Fullstack developer
+  description: Manage your game collection in one place
+  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass, Bootstrap
   image: images/MGS.png
   url: http://mygameshelf.herokuapp.com/
 
+
+- name: Abandonya
+  description2: Project manager & frontend developer
+  description: Airbnb in Japan for abandoned houses
+  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass
+  image: images/abandonya.png
+  url: https://abandonya.herokuapp.com/
+
+
 - name: Ruby Chatbot
   description2: Developer
-  description: Line chatbot to answer your simple questions | Ruby
+  description: Line chatbot to answer your simple questions
+  tech: Ruby, Sinatra
   image: images/ruby-screenshot.jpg
   url: https://github.com/MarieSeaman94/ruby-chat-bot
 
 - name: Weather App
   description2: Personal project
-  description: Background changes depending on location's temp | Vue
+  description: Background changes depending on location's temp
+  tech: Vue, JS, HTML/CSS
   image: images/Cebu-ph.png
   url: https://github.com/MarieSeaman94/vue-weather-app
