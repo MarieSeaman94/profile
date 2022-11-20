@@ -86,10 +86,11 @@
 @media (min-width: 100px) and (max-width: 575px) {
   .card-product {
     flex-direction: column;
+    height: fit-content;
   }
   .card-product .card-product-infos {
     width: 100%;
-    height: 30%;
+    height: 40%;
     padding: 0 1rem;
   }
   .card-product p {
@@ -118,8 +119,10 @@
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
+
+
   .card-product img {
-    width: 84%;
+    width: 77%;
     object-fit: fill;
   }
   .external-link {
