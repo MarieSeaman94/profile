@@ -9,7 +9,7 @@
 - name: Abandonya
   description2: Project manager & frontend developer
   description: Airbnb in Japan for abandoned houses
-  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass
+  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass, Boostrap
   image: images/abandonya.png
   url: https://abandonya.herokuapp.com/
 
