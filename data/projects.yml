@@ -1,7 +1,7 @@
 - name: My Game Shelf
   description2: Fullstack Developer
   description: Manage your game collection in one place
-  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass, Bootstrap
+  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HTML/CSS, Sass, Bootstrap
   image: images/MGS.png
   url: http://mygameshelf.herokuapp.com/
 
@@ -9,7 +9,7 @@
 - name: Abandonya
   description2: Project Manager & Frontend Developer
   description: Airbnb in Japan for abandoned houses
-  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass
+  tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HTML/CSS, Sass, Bootstrap
   image: images/abandonya.png
   url: https://abandonya.herokuapp.com/
 
@@ -28,7 +28,7 @@
   image: images/Cebu-ph.png
   url: https://github.com/MarieSeaman94/vue-weather-app
 
-- name: Yum! 
+- name: Yum!
   description2: Frontend Developer
   description: Recipe app w/ Spoonacular API
   tech: React, React Router DOM, JS, HTML/CSS
