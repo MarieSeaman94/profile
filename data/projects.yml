@@ -1,5 +1,5 @@
 - name: My Game Shelf
-  description2: Fullstack developer
+  description2: Fullstack Developer
   description: Manage your game collection in one place
   tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass, Bootstrap
   image: images/MGS.png
@@ -7,7 +7,7 @@
 
 
 - name: Abandonya
-  description2: Project manager & frontend developer
+  description2: Project Manager & Frontend Developer
   description: Airbnb in Japan for abandoned houses
   tech: RoR, PostgreSQL, JS, Stimulus, jQuery, HMLT/CSS, Sass
   image: images/abandonya.png
@@ -15,15 +15,22 @@
 
 
 - name: Ruby Chatbot
-  description2: Developer
+  description2: Backend Developer
   description: Line chatbot to answer your simple questions
   tech: Ruby, Sinatra
   image: images/ruby-screenshot.jpg
   url: https://github.com/MarieSeaman94/ruby-chat-bot
 
 - name: Weather App
-  description2: Developer 
+  description2: Frontend Developer
   description: Background changes depending on location's temp
   tech: Vue, JS, HTML/CSS
   image: images/Cebu-ph.png
   url: https://github.com/MarieSeaman94/vue-weather-app
+
+- name: Yum!
+  description2: Frontend Developer
+  description: Recipe app w/ Spoonacular API
+  tech: React, React Router DOM, JS, HTML/CSS
+  image: images/food-one.png
+  url: https://github.com/MarieSeaman94/food-app
