@@ -28,7 +28,7 @@
   image: images/Cebu-ph.png
   url: https://github.com/MarieSeaman94/vue-weather-app
 
-- name: Yum!
+- name: Yum! 
   description2: Frontend Developer
   description: Recipe app w/ Spoonacular API
   tech: React, React Router DOM, JS, HTML/CSS
