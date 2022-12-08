@@ -28,6 +28,7 @@
   height: 100%;
   border-radius: 3px;
   object-fit: cover;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .card-product h2 {
@@ -128,7 +129,7 @@
 
 
   .card-product img {
-    width: 77%;
+    width: 75%;
     object-fit: fill;
   }
   .external-link {
